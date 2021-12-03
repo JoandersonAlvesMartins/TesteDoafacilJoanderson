@@ -3,7 +3,7 @@
 ##  Instruções de testes TDD com Jest
 
 ## link do projeto DoaFácil.org Mobile
-### https://github.com/JoandersonAlvesMartins/DoaFacilMobile
+### https://github.com/JoandersonAlvesMartins/DoaFacilMobile/tree/master
 
 ### * npm init -y 
 #### -> para iniciar o projeto, Obs: É preciso ter o node.js instalado em seu pc.
